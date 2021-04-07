@@ -161,7 +161,7 @@ The "Frame" layer will be used to create pages in Figma.
 
 5. Upon successful creation, click either ["Frame 1"] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjust in the property panel.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-6-propertyPanel.png)
 
 create layer
 
