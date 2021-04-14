@@ -50,13 +50,13 @@ Create a new team project from the team workspace
 
 1. Click on the New project button in the top right-hand corner of the screen in the team workspace
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set1/1-1.png)
 
 Create a new project from the left side bar
 
 1.   Hover over the team name
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-2.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set1/1-2.png)
 
 2. Click on the plus icon(screenshot) to create a new project within the team
 3. In the create new project modal give your new project a meaningful name. It is possible to rename the project at any time
@@ -65,7 +65,7 @@ Create a new project from the left side bar
     - **View**: even if team members have edit permissions on they can only view the project when in this permission
     - I**nvite-only**: only team members or collaborators you invite to the project will be able to access files in this project
 
- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-3.png)
+ ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set1/1-3.png)
 
 5. Click **Create project** to create the new project
 6. The project page will open in the file browser
@@ -83,12 +83,12 @@ Any member can invite another viewer to the project but a viewer member cannot i
 
 1. Choose a team project to invite someone to in the sidebar and go to the Members tab.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set2/2-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-1.png)
 
 2. Click on the Invite button in the top-right corner.
 3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. Click on the drop-down menu and choose can view. Figma will send the invite to the email. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set2/2-2.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-2.png)
 
 ### Invite as a editor:
 
@@ -99,40 +99,40 @@ Note: Team members will need to accept an edit invitation before they can get ed
 1. Choose a team project to invite someone to in the sidebar and go to the Members tab.
 2. Click on the Invite button in the top-right corner.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set2/2-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-1.png)
 
 3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. Click on the drop-down menu and choose can edit. Figma will send the invite to the email. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set2/2-3.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-3.png)
 
 ## Task 1. Build App Pages with Layer
 
 Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following: 
 
-![Layer Icons](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-1-layerIcons.png)
+![Layer Icons](./set3/3-1-layerIcons.png)
 
 The "Frame" layer will be used to create pages in Figma. 
 
 1. open the layer panel on the left of the page
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f00ef74-17a7-4c0c-9485-715f4e44ec2b/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-2-layerPanel.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f00ef74-17a7-4c0c-9485-715f4e44ec2b/Untitled.png](./set3/3-2-layerPanel.png)
 
 2. [Click] on the "Region tools". There will be two options: "Frames" and "slice"
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ade9e663-7234-4748-b8a3-34924696cc86/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-3-RegionTools.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ade9e663-7234-4748-b8a3-34924696cc86/Untitled.png](./set3/3-3-RegionTools.png)
 
 3. After [clicking] the "frame", the region tool will be blue. Make sure it's select.
 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/232ba061-6687-450e-bda5-4c53f64815dc/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-4-frame.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/232ba061-6687-450e-bda5-4c53f64815dc/Untitled.png](./set3/3-4-frame.png)
 
 4. To create a page-like layer, [Click] "Frame". Then [Move] the mouse to the grey part of the Figma, which is drawing area. [Click] on the starting point, then keep [Dragging] until the frame matches the expected size and shape.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78c73506-0388-4335-b7c0-2f4f641f7a1c/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-5-drawingFrame.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78c73506-0388-4335-b7c0-2f4f641f7a1c/Untitled.png](./set3/3-5-drawingFrame.png)
 
 5. Upon successful creation, click either ["Frame 1"] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjust in the property panel.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-6-propertyPanel.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set3/3-6-propertyPanel.png)
 
 ## Create Components on the layout
 
@@ -144,39 +144,39 @@ You can create components from any layers or objects you've designed. These coul
 
 1. [Click] on the "Shape Tools" and you will see "Rectangle" has been selected by default.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73ff2cef-c191-4255-938f-4435e553e095/shape_tool1.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73ff2cef-c191-4255-938f-4435e553e095/shape_tool1.png](./set4/4-1.png)
 
 2. [Click] on the "Ellipse" option.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48427c64-1307-4250-b296-f236d3bd5897/Ellipse.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-2.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48427c64-1307-4250-b296-f236d3bd5897/Ellipse.png](./set4/4-2.png)
 
 3. Once "Ellipse" is selected, [hold down] the "Shift" key then drag your mouse on the ["Frame 1"] to draw a circle.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/082a129a-34d4-4485-b781-132c26a2fa05/draw_circle.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-3.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/082a129a-34d4-4485-b781-132c26a2fa05/draw_circle.png](./set4/4-3.png)
 
 4. Copy and Paste to make four identical circles.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8fcacd7-259a-456b-830b-bb91215d08c5/4_circles.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-4.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8fcacd7-259a-456b-830b-bb91215d08c5/4_circles.png](./set4/4-4.png)
 
 5. Select "Rectangle" from "Shape Tools" then draw a rectangle on the ["Frame 1"].
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5144ca65-ff34-4b0b-a862-2c40d80efbc6/rectangle.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-5.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5144ca65-ff34-4b0b-a862-2c40d80efbc6/rectangle.png](./set4/4-5.png)
 
 6. [Click] on the "Text" tool to create a textbox.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50d989ee-c31e-4fdc-8607-7b07d9b7ae90/textbox.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-6.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50d989ee-c31e-4fdc-8607-7b07d9b7ae90/textbox.png](./set4/4-6.png)
 
 7. Change the font-size to "12" and make it "text align left". Type the text in the textbox as shown.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c962c48-e112-4b74-97d3-32e7b7ef35e7/fontsize.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-7.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c962c48-e112-4b74-97d3-32e7b7ef35e7/fontsize.png](./set4/4-7.png)
 
 8. Using the tools you used in previous steps, create a second page as follows.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e09c660-5825-47e6-a4a9-683f845fd5bf/Frame2.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-8.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e09c660-5825-47e6-a4a9-683f845fd5bf/Frame2.png](./set4/4-8.png)
 
 9. Drag and select four circles which represents the stories. Then [click] "Create component" at the top of the screen.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1f64bdd-36ee-4b53-937f-2a626ea2d15b/dragselect.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set4/4-9.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1f64bdd-36ee-4b53-937f-2a626ea2d15b/dragselect.png](./set4/4-9.png)
 
 ## Connect the pages
 
@@ -186,23 +186,23 @@ Connections help to visualize the actual flow of the project when prototyping.
 
 1. [Click] on an element and select "Prototype."
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e457e67-505d-411a-a71c-7211ce7a8af2/connection1.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set5/5-1.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e457e67-505d-411a-a71c-7211ce7a8af2/connection1.png](./set5/5-1.png)
 
 2. [Click] the "+" icon on the top right corner then select where it says "Click → None."
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fb8976e-3543-4951-a64d-cb9036cef4e5/connection2.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set5/5-2.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fb8976e-3543-4951-a64d-cb9036cef4e5/connection2.png](./set5/5-2.png)
 
 3. [Click] the dropbox "none" and select "Navigate to."
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c397119-185f-4baa-9cd8-2365a87ea499/connection3.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set5/5-3.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c397119-185f-4baa-9cd8-2365a87ea499/connection3.png](./set5/5-3.png)
 
 4. [Click] on the new dropbox menu called "None" right next to "Navigate to" dropbox. Then select a page that you want this element to navigate to. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ba4ace6-257c-4acc-bb1a-88e5d209c555/connection4.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set5/5-4.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ba4ace6-257c-4acc-bb1a-88e5d209c555/connection4.png](./set5/5-4.png)
 
 5. To see how connections actually work, [Click] on the play button on top right corner.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4ae494-ec31-407d-a54b-4ba10ac4db6f/connection5.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set5/5-5.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4ae494-ec31-407d-a54b-4ba10ac4db6f/connection5.png](./set5/5-5.png)
 
 ## Save to version history
 
