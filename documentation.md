@@ -83,12 +83,12 @@ Any member can invite another viewer to the project but a viewer member cannot i
 
 1. Choose a team project to invite someone to in the sidebar and go to the Members tab.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-4.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/2-1.png)
 
 2. Click on the Invite button in the top-right corner.
 3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. Click on the drop-down menu and choose can view. Figma will send the invite to the email. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-5.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/2-2.png)
 
 ### Invite as a editor:
 
@@ -99,11 +99,11 @@ Note: Team members will need to accept an edit invitation before they can get ed
 1. Choose a team project to invite someone to in the sidebar and go to the Members tab.
 2. Click on the Invite button in the top-right corner.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-4.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/2-1.png)
 
 3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. Click on the drop-down menu and choose can edit. Figma will send the invite to the email. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-6.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/2-3.png)
 
 ## Task 1. Build App Pages with Layer
 
