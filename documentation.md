@@ -103,7 +103,7 @@ Note: Team members will need to accept an edit invitation before they can get ed
 
 3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. Click on the drop-down menu and choose can edit. Figma will send the invite to the email. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-5.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-6.png)
 
 ## Task 1. Build App Pages with Layer
 
