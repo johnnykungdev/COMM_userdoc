@@ -42,7 +42,7 @@ This section shows the conventions used through the rest of the instructions. Th
 | Options in Figma    | [File]|
 | Windows | are neat  |
 
-## Create a Project
+## Step 1 - Create a Project
 
 Creating projects allow a user to group your related design files together in a single area, like a folder in a file system. Projects are only available in teams. Create teams for your own work, or for collaborating within a group. In a Starter Team, you can create up to 2 Projects.
 
@@ -212,7 +212,7 @@ Create a new version of a project
 
 1. Open the menu when inside of a project and select **Save to Version History**. 
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set6/6-1.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](./set6/6-1.png)
 
     Or use the keyboard shortcuts:
 
