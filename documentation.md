@@ -272,6 +272,6 @@ Find layers hidden in the Figma file. They use large amount of memory in the bro
 2. Split files with images and pages:
 Create a new file in the Figma account. **Select** the images and the components you want to move to another file. **Copy** and **Paste** them to the new file. Return to the original file and **delete** the images and components you moved.
 
-### Figma files Loading Slowly
+### Figma Files Loading Slowly
 
 The issue is possibly caused due to unstable internet connection. Check the internet connect used on the computer. If the issue is not resolved, switch to another internet connection or call you internet supplier to seek for assistance.
