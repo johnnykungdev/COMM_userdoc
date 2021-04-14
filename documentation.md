@@ -109,7 +109,7 @@ Note: Team members will need to accept an edit invitation before they can get ed
 
 Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following: 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/3-1-layerIcons.png)
+![Layer Icons](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/3-1-layerIcons.png)
 
 The "Frame" layer will be used to create pages in Figma. 
 
