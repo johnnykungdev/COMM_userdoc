@@ -1,3 +1,7 @@
+![Figma Icon](https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png)
+# How To Create A Prototype With Figma
+
+
 ## Introduction
 
 The purpose of this document is to offer users a basic understanding of prototyping using Figma. Figma is a web-based graphic design editor created by Figma. inc in 2016. It is available on Windows/Mac desktop app and IOS/Android mobile app versions, which contain additional offline features. Figma is packed with multiple design features such as the Arc tool and Vector Networks, and it also allows designers to collaborate online. With versatile functions, Figma allows users to create a scalable design system that is easy to manage.
@@ -68,7 +72,7 @@ Create a new project from the left side bar
 
  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set1/1-3.png)
 
-5. **Click** **Create project** to create the new project
+5. **Click** [Create project] to create the new project
 6. The project page will open in the file browser
 
 ## Task 2: Invite Designers to Collaborate
@@ -82,7 +86,7 @@ After creating a project you can invite others as collaborators. Members can add
 
 Any member can invite another viewer to the project but a viewer member cannot invite an editor to the project. The viewers in a project can only view and comment on files and projects.
 
-1. Choose a team project to invite someone to in the sidebar and go to the Members tab.
+1. **Choose** a team project to invite someone to in the sidebar and go to the Members tab.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-1.png)
 
@@ -97,16 +101,16 @@ Only members with a can edit access can invite editors to the team.
 
 Note: Team members will need to accept an edit invitation before they can get edit access to the team. They can accept the invitation from the email or from their notifications in Figma. This is a similar process to inviting a viewer member
 
-1. Choose a team project to invite someone to in the sidebar and go to the Members tab.
+1. **Choose** a team project to invite someone to in the sidebar and go to the Members tab.
 2. **Click** on the Invite button in the top-right corner.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-1.png)
 
-3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. **Click** on the drop-down menu and choose can edit. Figma will send the invite to the email. 
+3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. **Click** on the drop-down menu and choose can edit. Figma will send the invite to the email.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set2/2-3.png)
 
-## Task 1. Build App Pages with Layer
+## Task 3: Build App Pages with Layer
 
 Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following:
 
@@ -114,7 +118,7 @@ Layers are any frames, groups or objects created in the canvas area. They will b
 
 The "Frame" layer will be used to create pages in Figma.
 
-1. open the layer panel on the left of the page
+1. **Open** the layer panel on the left of the page
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f00ef74-17a7-4c0c-9485-715f4e44ec2b/Untitled.png](./set3/3-2-layerPanel.png)
 
@@ -131,11 +135,11 @@ The "Frame" layer will be used to create pages in Figma.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78c73506-0388-4335-b7c0-2f4f641f7a1c/Untitled.png](./set3/3-5-drawingFrame.png)
 
-5. Upon successful creation, click either ["Frame 1"] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjust in the property panel.
+5. Upon successful creation, **click** either ["Frame 1"] on the layer panel or the frame in the canvas area to see its properties. The properties are shown in the property panel on the right side of the page. Height, width and other properties can be adjust in the property panel.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](./set3/3-6-propertyPanel.png)
 
-## Create Components on the layout
+## Task 4: Create Components on the layout
 
 After creating layers, we can add some components on to the layers.
 
@@ -151,11 +155,11 @@ You can create components from any layers or objects you've designed. These coul
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/48427c64-1307-4250-b296-f236d3bd5897/Ellipse.png](./set4/4-2.png)
 
-3. Once "Ellipse" is selected, [hold down] the "Shift" key then drag your mouse on the ["Frame 1"] to draw a circle.
+3. Once "Ellipse" is selected, **hold down** the "Shift" key then **drag** your mouse on the ["Frame 1"] to draw a circle.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/082a129a-34d4-4485-b781-132c26a2fa05/draw_circle.png](./set4/4-3.png)
 
-4. Copy and Paste to make four identical circles.
+4. **Copy** and Paste** to make four identical circles.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8fcacd7-259a-456b-830b-bb91215d08c5/4_circles.png](./set4/4-4.png)
 
@@ -179,7 +183,7 @@ You can create components from any layers or objects you've designed. These coul
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1f64bdd-36ee-4b53-937f-2a626ea2d15b/dragselect.png](./set4/4-9.png)
 
-## Connect the pages
+## Task 5: Connect the pages
 
 Once you are done creating elements and component, you can link elements to other pages by creating connections. 
 
@@ -205,13 +209,13 @@ Connections help to visualize the actual flow of the project when prototyping.
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4ae494-ec31-407d-a54b-4ba10ac4db6f/connection5.png](./set5/5-5.png)
 
-## Save to version history
+## Task 6: Save to version history
 
 You can create and name new versions in your files. This is great for capturing a snapshot of the file at a specific time, or record a specific set of changes. You can add details to describe the changes you’ve made in this design iteration or any other details that may be relevant, like a milestone name or related task.
 
 Create a new version of a project
 
-1. Open the menu when inside of a project and select **Save to Version History**.
+1. **O** the menu when inside of a project and select **Save to Version History**.
 
     ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6744ba-605d-4947-996e-9e1f60668f27/Screen_Shot_2021-04-13_at_5.30.16_PM.png](./set6/6-1.png)
 
