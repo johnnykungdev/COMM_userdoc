@@ -103,13 +103,13 @@ Note: Team members will need to accept an edit invitation before they can get ed
 
 3. A pop-up will appear for the email for the new member. There will be an option between can view or can edit. Click on the drop-down menu and choose can edit. Figma will send the invite to the email. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set3/3-4-frame.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96f93d23-86c7-4d32-84ce-6193f4a3cb07/Untitled.png](https://github.com/kjohnathan/COMM_userdoc/blob/master/set1/1-5.png)
 
 ## Task 1. Build App Pages with Layer
 
 Layers are any frames, groups or objects created in the canvas area. They will be shown in the layer panel on the left of the page. Layers' kinds are indicated with different icons. The list of layers are as following: 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cab14fe2-95d1-4906-9a39-426a21810a37/3-1-layerIcons.png)
 
 The "Frame" layer will be used to create pages in Figma. 
 
