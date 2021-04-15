@@ -226,8 +226,7 @@ Create a new version of a project
 
 2. **Add** a [Title] and a [Description] about your changes and why you made them.
 
-    **Tips:**
-
+    Tips:
     - Figma cuts titles that are longer than 25 characters.
     - To see the full description at a glance be sure to make your descriptions less than 140 characters.
     - You can add URLs, but Figma will not turn them into clickable links.
